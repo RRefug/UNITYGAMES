@@ -1,4 +1,6 @@
-<img width="809" alt="image" src="https://github.com/user-attachments/assets/f4032641-30a9-4a50-8301-eedda242a261" />I sought out a personal project after graduation that involved the game concept my younger sister envisioned. 
+<img width="809" alt="image" src="https://github.com/user-attachments/assets/f4032641-30a9-4a50-8301-eedda242a261" />
+
+I sought out a personal project after graduation that involved the game concept my younger sister envisioned. 
 I had fun creating it using:
 C# programming lanuage, 2D hand drawn sprite images by my little sister, scripts, collisions, gravity functionality, and UI funtionality using the Unity environment. 
 
